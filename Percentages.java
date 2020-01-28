@@ -1,4 +1,4 @@
-//Krista Elizabeth Ghazaleh
+//Elizabeth Grace Jen
 //Chap3a
 //2/20/18
 import java.util.Scanner;
