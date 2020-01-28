@@ -1,4 +1,4 @@
-//Krista Elizabeth Ghazaleh
+//Elizabeth Grace Jen
 //Ch4aEx
 //2/27/18
 public class BirdSighting 
