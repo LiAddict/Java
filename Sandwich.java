@@ -1,6 +1,3 @@
-//Elizabeth Grace Jen
-//Sandwich.java
-//2/20/18
 public class Sandwich 
 {
 		private String breadType;
