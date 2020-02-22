@@ -1,6 +1,3 @@
-//Elizabeth Grace Jen
-//DeclareSandwichIngredients.java
-//2/20/18
 public class DeclareSandwichIngredients {
 
 	public static void main(String[] args)
