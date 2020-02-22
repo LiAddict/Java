@@ -1,7 +1,4 @@
-//Written by Elizabeth Grace Jen
-//Purchase
-//Written on 4/9/18
- import java.text.DecimalFormat;
+import java.text.DecimalFormat;
 public class Purchase
 {
 		private int invoiceNumber;
