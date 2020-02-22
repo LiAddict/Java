@@ -1,7 +1,3 @@
-
-//Elizabeth Grace Jen
-//Ch4aEx
-//2/27/18
 import java.util.Scanner;
 public class TestBirdSighting {
 
