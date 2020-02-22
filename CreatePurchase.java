@@ -1,6 +1,4 @@
-//Written by Elizabeth Grace Jen
-//CreatePurchase
-//Written on 4/9/18
+
 import java.util.Scanner;
 public class CreatePurchase 
 {
