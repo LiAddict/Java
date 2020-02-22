@@ -1,6 +1,3 @@
-//Elizabeth Grace Jen
-//Ch3aEX
-//2/13/18
 import java.util.Scanner;
 public class DoTheMath {
 
